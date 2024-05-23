@@ -9,4 +9,4 @@ def total(n):
 
 if __name__ == "__main__":
     print(total(10))
-    print(fibo(12))
+    print(fibo.fibo(12))
